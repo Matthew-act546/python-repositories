@@ -14,4 +14,3 @@ questions = ['Why did you choose to pursue a BSCS degree?',
             'What do you think are the challenges facing computer science students today?']
 
 print(f'\nQuestion:\n{questions[randint(0, len(questions)-1)]}\n')
-
